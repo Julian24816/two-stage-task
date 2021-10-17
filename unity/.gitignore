@@ -1,0 +1,9 @@
+﻿/[Ll]ibrary/
+/[Ll]ogs/
+/[Oo]bj/
+/[Tt]emp/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+!Build/twoStageTask1.8.apk
+
+*.csproj
