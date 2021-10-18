@@ -1,0 +1,6 @@
+TrialNumber,Completed,Timestamp Before Black Screen,Black Screen Duration,Timestamp First Choice Shown,Timestamp First Decision,First Choice Reaction Time,First Choice,Common Transition,Second Stage,Timestamp Second Choice Shown,Timestamp Second Decision,Second Decision Reaction Time,Second Choice,Reward Probability,Reward,Timestamp End
+1,no,10/01/2021 11:24:24,00:00:02.3920440,10/01/2021 11:24:26,,,,,,,,,,,,10/01/2021 11:24:28
+2,yes,10/01/2021 11:24:28,00:00:00.6074760,10/01/2021 11:24:29,10/01/2021 11:24:30,00:00:01.1427590,First B,yes,Second 2,10/01/2021 11:24:31,10/01/2021 11:24:32,00:00:01.0156060,Second 2 B,30.0%,no,10/01/2021 11:24:36
+3,yes,10/01/2021 11:24:36,00:00:01.3321040,10/01/2021 11:24:37,10/01/2021 11:24:39,00:00:01.6681150,First A,no,Second 2,10/01/2021 11:24:40,10/01/2021 11:24:41,00:00:01.2791550,Second 2 B,30.0%,no,10/01/2021 11:24:44
+4,no,10/01/2021 11:24:44,00:00:00.7150680,10/01/2021 11:24:45,,,,,,,,,,,,10/01/2021 11:24:47
+5,no,10/01/2021 11:24:47,00:00:01.9648390,10/01/2021 11:24:49,,,,,,,,,,,,10/01/2021 11:24:49
